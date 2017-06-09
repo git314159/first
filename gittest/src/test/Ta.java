@@ -6,7 +6,7 @@ public class Ta {
 		return x+y;
 	}
 	public static void main(String[] args) {
-		
+		Ta aTa = new Ta();
 	}
 	
 }
